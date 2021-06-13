@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Fran (@forteggu)
+- 👀 I’m interested in many things really, but I guess the most important one is learning with and from other people! Talking about something more specific, I'm really into front-end web programming languages such as Javascript (Ionic, Angular, React) and Php!
+- 📫 You can contact me @ forteggu@protonmail.com :) 
